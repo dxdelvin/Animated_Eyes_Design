@@ -2,7 +2,7 @@
 
 This project creates a fun and interactive animation featuring a pair of eyes that follow the movement of the mouse cursor. Additionally, there is a button that changes the background color and the eye colors when clicked, adding an extra element of interactivity.
 
-![Uploading image.png…]()
+![image](https://github.com/dxdelvin/Animated_Eyes_Design/assets/61946291/0fcc7180-1b2f-4543-9ef1-06b473b284e1)
 
 
 ## Features
