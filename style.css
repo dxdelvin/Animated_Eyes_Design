@@ -1,0 +1,64 @@
+html {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  height: 100%;
+  width: 100%;
+  background-color: #a22f2f;
+}
+
+.container{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#theme{
+  color: #ffffff;
+  border-radius: 3px;
+  background: none;
+  border: 2px solid;
+  padding: 6px 12px;
+  background-color: #812828;
+  cursor: pointer;
+}
+
+#theme:onhover{
+  background-color: #401212;
+}
+
+.theeye{
+  margin: 0px 20px;
+  height: 100px;
+  aspect-ratio: 1;
+  background-color: #212121;
+  outline: 10px solid black;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.thepupil{
+  height:50px;
+  aspect-ratio:1;
+  background-color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+
+.theinside{
+  height:25px;
+  aspect-ratio:1;
+  background-color: black;
+  border-radius: 50%;
+}
