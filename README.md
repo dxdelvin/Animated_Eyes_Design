@@ -2,6 +2,9 @@
 
 This project creates a fun and interactive animation featuring a pair of eyes that follow the movement of the mouse cursor. Additionally, there is a button that changes the background color and the eye colors when clicked, adding an extra element of interactivity.
 
+![Uploading image.png…]()
+
+
 ## Features
 
 - **Dynamic Eye Movement:** The eyes smoothly follow the movement of the mouse cursor, creating a playful and engaging visual effect.
